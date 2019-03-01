@@ -1,0 +1,23 @@
+{
+  "name": "breakout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^3.3.3333"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuygheHenri-Thibault/Breakout.git"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/HuygheHenri-Thibault/Breakout/issues"
+  },
+  "homepage": "https://github.com/HuygheHenri-Thibault/Breakout#readme"
+}
